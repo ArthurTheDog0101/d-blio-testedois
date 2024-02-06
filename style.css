@@ -3,3 +3,8 @@
     background: fixed;
     background-color: blue;
 }
+.cabecalho{
+    display: flex
+    
+}
+body{background-color: burlywood;}
